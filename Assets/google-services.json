@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507258623998",
+    "project_id": "vr-safe-education",
+    "storage_bucket": "vr-safe-education.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507258623998:android:a133a460542c1a380352af",
+        "android_client_info": {
+          "package_name": "com.vrSafeEdu.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507258623998-f53d3mip5iupsoksnv9mj2cq516r9tds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknSig7ozdJldvLEdk1BcKixVgKWbzuAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507258623998-f53d3mip5iupsoksnv9mj2cq516r9tds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
